@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExtraSpacesRemover": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
