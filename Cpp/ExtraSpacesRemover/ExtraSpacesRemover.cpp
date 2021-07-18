@@ -4,10 +4,10 @@
 using namespace std;
 
 /// <summary>
-/// Удалить лишние пробелы.
+/// Remove extra spaces.
 /// Source: https://www.geeksforgeeks.org/remove-extra-spaces-string/.
 /// </summary>
-/// <param name="str"></param>
+/// <param name="str">Input string.</param>
 void removeSpaces(string& str)
 {
 	int length = str.length();
